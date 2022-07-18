@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student majoring in Computer Science at Technology at Huazhong University of Science and Technology. My site is https://vaaandark.top/.
+I'm a student majoring in Computer Science at Huazhong University of Science and Technology. My site is https://vaaandark.top/.
 
 Here are some ideas to get you started:
 
