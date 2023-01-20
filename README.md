@@ -4,8 +4,8 @@ I'm a student majoring in Computer Science at Huazhong University of Science and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a FS Lab
-- 🌱 I’m currently learning Rust and FS
+- 🔭 I’m currently working on Big Data
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: vaaandark@outlook.com
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
