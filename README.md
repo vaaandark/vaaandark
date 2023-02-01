@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Big Data
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: vaaandark@outlook.com
+- 📫 How to reach me: vaaandark@gmail.com
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
 
