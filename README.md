@@ -2,6 +2,8 @@
 
 I'm vandark(vaaandark, nack).
 
+I'm now working on [TKE](https://www.tencentcloud.com/products/tke) in @Tencent.
+
 I'm a student majoring in Computer Science at Huazhong University of Science and Technology. My site is https://vaaandark.top/.
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,python,lua,bash,vim,linux)](https://skillicons.dev)
