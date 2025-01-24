@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
 
-[![vaaandark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaandark&count_private=true&exclude_repo=honeta.site,husthxj.top)](https://github.com/anuraghazra/github-readme-stats)
+[![vaaandark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaandark&count_private=true&exclude_repo=vaaandark.github.io,sruttle,socker)](https://github.com/anuraghazra/github-readme-stats)
